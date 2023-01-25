@@ -1,0 +1,3 @@
+Veri bilimi, veriye dayalı karar verme ve tahmin yapma işlemlerini gerçekleştirmek için kullanılan bir takım yöntemleri içermektedir. Bu yöntemler arasında veri toplama, veri temizliği, veri analizi, veri görselleştirme ve öğrenme algoritmaları gibi farklı araçlar bulunur.
+
+Bir örnek olarak, bir e-ticaret sitesi için veri bilimini kullanarak müşterilerin hangi ürünleri alma eğiliminde olduğunu ve hangi ürünlerin satışlarını arttırması gerektiğini tahmin edebiliriz. Bu işlemler için veri toplama ve temizliği yaparak, verileri analiz edebiliriz. 
