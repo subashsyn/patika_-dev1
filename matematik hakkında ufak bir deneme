@@ -1,0 +1,9 @@
+Matematik, insanların doğal olarak merak ettikleri ve öğrenmek istedikleri bir konudur. Özellikle de sezgisel anlamaya dayalı bir yaklaşım, matematik konularını daha kolay anlaşılır ve daha ilginç hale getirebilir.
+
+Bir örnek olarak, "Günümüzde kullandığımız cep telefonlarının GPS sistemi nasıl çalışır?" konusunu ele alabiliriz. GPS (Global Positioning System), dünya üzerinde yer alan uydu ağını kullanarak, cep telefonlarının ve diğer cihazların konumunu tespit etmelerini sağlar.
+
+GPS sistemi, dünya üzerinde yer alan uydu ağını kullanarak, cep telefonlarının ve diğer cihazların konumunu tespit etmelerini sağlar. Bu uydular, dünya üzerinde yer alan istasyonlar tarafından yayınlanan sinyalleri alırlar ve bu sinyaller aracılığıyla cihazların konumunu tespit ederler.
+
+Cep telefonları, GPS sistemi tarafından yayınlanan sinyalleri alır ve bu sinyaller aracılığıyla konumlarını tespit ederler. Ancak, cep telefonlarının konumunu doğru bir şekilde tespit etmeleri için, en azından 4 adet uydu sinyali almaları gerekir. Bu sayede, cep telefonlarının konumunu belirlemek için triangülasyon yöntemi kullanılır.
+
+Triangülasyon yöntemi, cep telefonlarının konumunu belirlemek için en yaygın kullanılan yöntemdir. Bu yöntem, cep telefonlarının aldığı sinyaller aracılığıyla, cep telefonlarının konumunu belirlemek için 3 veya daha fazla nokta arasındaki mesafeleri kullanır. Bu sayede, cep telefonların konumları doğru bir şekilde tespit edilebilir.
